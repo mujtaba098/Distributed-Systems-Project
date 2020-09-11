@@ -3,8 +3,8 @@ A Toy Merchant application with a client and a server program that facilitates i
 ## Members:
  1. Mujtabaa Bashir - 099473
  2. Cosmas Nyairo - 101193
- 3. Marvin Matata - 96990
- 4. Vivian Mwai - 96570
+ 3. Marvin Matata - 096990
+ 4. Vivian Mwai - 096570
 
 # Screenshots
 
